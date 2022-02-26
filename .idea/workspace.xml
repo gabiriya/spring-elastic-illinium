@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75f7d7a8-288d-4eb2-b603-3081dcd1e2cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/elasticsearch/service/helper/PersonDummyDataService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lilium/elasticsearch/ElasticsearchApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elasticsearch/ElasticsearchApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lilium/elasticsearch/configuration/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elasticsearch/configuration/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lilium/elasticsearch/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elasticsearch/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lilium/elasticsearch/controller/PersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elasticsearch/controller/PersonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lilium/elasticsearch/controller/VehicleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elasticsearch/controller/VehicleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lilium/elasticsearch/document/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elasticsearch/document/PersonEs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lilium/elasticsearch/document/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elasticsearch/document/VehicleEs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lilium/elasticsearch/helper/Indices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elasticsearch/helper/Indices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lilium/elasticsearch/helper/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elasticsearch/helper/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lilium/elasticsearch/repository/PersonRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elasticsearch/repository/PersonRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lilium/elasticsearch/search/PagedRequestDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elasticsearch/search/PagedRequestDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lilium/elasticsearch/search/SearchRequestDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elasticsearch/search/SearchRequestDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lilium/elasticsearch/search/util/SearchUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elasticsearch/search/util/SearchUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lilium/elasticsearch/service/IndexService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elasticsearch/service/IndexService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lilium/elasticsearch/service/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elasticsearch/service/PersonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lilium/elasticsearch/service/VehicleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elasticsearch/service/VehicleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lilium/elasticsearch/service/helper/VehicleDummyDataService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elasticsearch/service/helper/VehicleDummyDataService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/lilium/elasticsearch/ElasticsearchApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/elasticsearch/ElasticsearchApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24rzcHN3naqsdg6Wngq0uLwZDe6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.ElasticsearchApplication">
+    <configuration name="generated-requests | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #4" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="4" requestIdentifier="#4" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #5" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="5" requestIdentifier="#5" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #8" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="8" requestIdentifier="#8" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="ElasticsearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="elasticsearch.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.elasticsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.elasticsearch.ElasticsearchApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #8" />
+        <item itemvalue="HTTP Request.generated-requests | #5" />
+        <item itemvalue="HTTP Request.generated-requests | #4" />
+        <item itemvalue="HTTP Request.generated-requests | #2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75f7d7a8-288d-4eb2-b603-3081dcd1e2cb" name="Changes" comment="" />
+      <created>1644403574267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644403574267</updated>
+      <workItem from="1644403576641" duration="1655000" />
+      <workItem from="1644417853873" duration="2705000" />
+      <workItem from="1644502963563" duration="780000" />
+      <workItem from="1645025017521" duration="972000" />
+      <workItem from="1645104087081" duration="22000" />
+      <workItem from="1645104124086" duration="1596000" />
+      <workItem from="1645470937320" duration="1654000" />
+      <workItem from="1645531742041" duration="3780000" />
+      <workItem from="1645701638354" duration="5205000" />
+      <workItem from="1645797449034" duration="3973000" />
+      <workItem from="1645803259530" duration="780000" />
+      <workItem from="1645815510779" duration="3506000" />
+      <workItem from="1645873531419" duration="3396000" />
+      <workItem from="1645888610831" duration="1376000" />
+      <workItem from="1645916118304" duration="113000" />
+      <workItem from="1645916300776" duration="83000" />
+      <workItem from="1645916441069" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/elasticsearch/search/util/SearchUtil.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
